@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homework3.4.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Africa">Африка</string>
+    <string name="Asia">Азия</string>
+    <string name="Europe">Европа</string>
+    <string name="North_America">Северная Америка</string>
+    <string name="Oceania">Океания</string>
+    <string name="South_America">Южная Америка</string>
+</resources>
